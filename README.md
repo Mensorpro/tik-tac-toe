@@ -33,7 +33,7 @@ cd tic-tac-toe
 To run the game, execute the following command:
 
 ```bash
-python main.py
+python game.py
 ```
 
 The game will start, and you can play against the AI opponent by entering the row and column numbers corresponding to your move.
@@ -49,6 +49,19 @@ The project structure is organized as follows:
 - `main.py`: Contains the main entry point of the program.
 
 Each module is responsible for a specific aspect of the game and can be easily modified or extended.
+
+```
+tic-tac-toe/
+├── README.md
+├── player.py
+├── board.py
+├── game.py
+├── minimax.py
+├── requirements.txt
+├── setup.py
+└── dist/
+    └── tictactoe.exe
+```
 
 ## Contributing
 
