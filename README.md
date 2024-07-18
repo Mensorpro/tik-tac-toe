@@ -57,8 +57,6 @@ tic-tac-toe/
 ├── board.py
 ├── game.py
 ├── minimax.py
-├── requirements.txt
-├── setup.py
 └── dist/
     └── tictactoe.exe
 ```
