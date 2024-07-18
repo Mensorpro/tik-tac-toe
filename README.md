@@ -24,7 +24,7 @@ This Tic-Tac-Toe game is implemented in Python and features an AI opponent that 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/Mensorpro/tic-tac-toe.git
 cd tic-tac-toe
 ```
 
